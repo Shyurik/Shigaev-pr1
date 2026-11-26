@@ -1,2 +1,4 @@
 ФИО: Шигаев Александр Александрович
 Группа: 43ИП
+FIO: Shigaev Alexander Alexandrovich
+Gruppa: 43IP
